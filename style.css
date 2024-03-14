@@ -27,7 +27,7 @@ main {
     display: flex;
     justify-content: center;
     height: 18rem;
-    width: 18rem;
+    margin-bottom: 1.5rem;
 }
 
 .imageBackground {
